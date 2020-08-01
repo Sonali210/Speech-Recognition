@@ -30,12 +30,5 @@ def index():
 
     return render_template('index.html', transcript=transcript)
 
-
-# create an audio file from the file initially created
-# then initialize an instance from the speech recognition class
-# then pass that audio file into the record function of the recognizer module
-# which will parse the audio file and convert it to understandable format
-# which allows us to apply our function: recognize
-
 if __name__ == '__main__':
     app.run(port='2207', debug=True, threaded=True)  # multiple requests at the ame time for the file
