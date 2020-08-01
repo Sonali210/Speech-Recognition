@@ -13,11 +13,11 @@ But hey! since you are a Python programmer, you don’t have to worry about any 
 and convert it to understandable format which allows us to apply our function: recognize
 
 # How to run this repo on your local
-You need to install dependencies by using pip install-r requirements.txt in your command prompt
-Run app.py file
-Copy the URL obtained in your web browser and here you go.
-Upload your own wav file or choose one from 'Recording' named folder of this repository.(Remember only files with .wav extentions are to be uploaded.)
-Click on transcribe.
+1.You need to install dependencies by using pip install-r requirements.txt in your command prompt
+2.Run app.py file
+3.Copy the URL obtained in your web browser and here you go.
+4.Upload your own wav file or choose one from 'Recording' named folder of this repository.(Remember only files with .wav extentions are to be uploaded.)
+5.Click on transcribe.
 
 Congratulations! your speech has been converted to text.
 Try using different speeches and see the results:)
